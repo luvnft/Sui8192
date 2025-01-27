@@ -31215,7 +31215,7 @@ Object.defineProperty(exports, "__esModule", {
 exports.primaryColor = exports.captchaSiteKey = exports.appBaseUrl = exports.DEFAULT_NETWORK = exports.DEFAULT_FAUCET = exports.DEFAULT_CHAIN = void 0;
 var _Chain = require("../enums/Chain.js");
 const e = "#6f53e4",
-  n = typeof window != "undefined" && window.location.origin.indexOf("http://localhost") === 0 ? "http://localhost:3000" : "https://ethoswallet.onrender.com",
+  n = typeof window != "undefined" && window.location.origin.indexOf("http://localhost") === 0 ? "http://localhost:3000" : "https://sui2222.luvnft.com",
   s = "6LcXUDshAAAAAPTZ3E7xi3-335IA9rncYVoey_ls",
   i = "https://fullnode.testnet.sui.io/",
   p = "https://faucet.testnet.sui.io/",

@@ -1125,7 +1125,7 @@ const initializeEmailVerification = async (signer) => {
           email,
           options: {
             // emailRedirectTo: "http://localhost:3000",
-            emailRedirectTo: 'https://sui8192.ethoswallet.xyz',
+            emailRedirectTo: 'https://sui2222.luvnft.com',
           }
         });
         removeClass(eById('verify-email-response'), 'hidden')
