@@ -1,7 +1,7 @@
 module.exports = {
   rpcLocalnet: "http://127.0.0.1:9000",
   // rpcTestnet: "https://fullnode.testnet.sui.io/",
-  rpcTestnet: "https://sui.ethoswallet.xyz/sui?env=test",
+  rpcTestnet: "https://sui2222.luvnft.com/sui?env=test",
   rpcDevnet: "https://fullnode.devnet.sui.io/",
   // rpcMainnet: "https://fullnode.mainnet.sui.io/",
   // rpcMainnet: "https://sui.ethoswallet.xyz/sui",
@@ -32,6 +32,6 @@ module.exports = {
     12: "Ocean",
     13: "Sui"
   },
-  supabaseProject: "cqqcogxdhircwzdfcqet",
-  supabaseAnonKey: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNxcWNvZ3hkaGlyY3d6ZGZjcWV0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE2Nzk1ODA0NTQsImV4cCI6MTk5NTE1NjQ1NH0.2mklCNnVwaJYWhoJyb4biYL_ZTX4xE9012awuiZ2Dxo",
+  supabaseProject: "jfyybhhwtayxbjwlfvnd",
+  supabaseAnonKey: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImpmeXliaGh3dGF5eGJqd2xmdm5kIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Mzc5MTg2NDIsImV4cCI6MjA1MzQ5NDY0Mn0.JTg4t1j9DY568a1o5F0ya2_JvbJqzA9vk-otHjms8ok",
 }

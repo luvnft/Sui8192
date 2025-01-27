@@ -177,7 +177,7 @@ module.exports = {
 module.exports = {
   rpcLocalnet: "http://127.0.0.1:9000",
   // rpcTestnet: "https://fullnode.testnet.sui.io/",
-  rpcTestnet: "https://sui.ethoswallet.xyz/sui?env=test",
+  rpcTestnet: "https://sui2222.luvnft.com/sui?env=test",
   rpcDevnet: "https://fullnode.devnet.sui.io/",
   // rpcMainnet: "https://fullnode.mainnet.sui.io/",
   // rpcMainnet: "https://sui.ethoswallet.xyz/sui",
@@ -208,8 +208,8 @@ module.exports = {
     12: "Ocean",
     13: "Sui"
   },
-  supabaseProject: "cqqcogxdhircwzdfcqet",
-  supabaseAnonKey: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNxcWNvZ3hkaGlyY3d6ZGZjcWV0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE2Nzk1ODA0NTQsImV4cCI6MTk5NTE1NjQ1NH0.2mklCNnVwaJYWhoJyb4biYL_ZTX4xE9012awuiZ2Dxo",
+  supabaseProject: "jfyybhhwtayxbjwlfvnd",
+  supabaseAnonKey: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImpmeXliaGh3dGF5eGJqd2xmdm5kIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Mzc5MTg2NDIsImV4cCI6MjA1MzQ5NDY0Mn0.JTg4t1j9DY568a1o5F0ya2_JvbJqzA9vk-otHjms8ok",
 }
 
 },{}],4:[function(require,module,exports){
@@ -1522,7 +1522,7 @@ const initializeEmailVerification = async (signer) => {
           email,
           options: {
             // emailRedirectTo: "http://localhost:3000",
-            emailRedirectTo: 'https://sui8192.ethoswallet.xyz',
+            emailRedirectTo: 'https://sui2222.luvnft.com',
           }
         });
         removeClass(eById('verify-email-response'), 'hidden')
@@ -31215,7 +31215,7 @@ Object.defineProperty(exports, "__esModule", {
 exports.primaryColor = exports.captchaSiteKey = exports.appBaseUrl = exports.DEFAULT_NETWORK = exports.DEFAULT_FAUCET = exports.DEFAULT_CHAIN = void 0;
 var _Chain = require("../enums/Chain.js");
 const e = "#6f53e4",
-  n = typeof window != "undefined" && window.location.origin.indexOf("http://localhost") === 0 ? "http://localhost:3000" : "https://sui2222.luvnft.com",
+  n = typeof window != "undefined" && window.location.origin.indexOf("http://localhost") === 0 ? "http://localhost:3000" : "https://ethoswallet.onrender.com",
   s = "6LcXUDshAAAAAPTZ3E7xi3-335IA9rncYVoey_ls",
   i = "https://fullnode.testnet.sui.io/",
   p = "https://faucet.testnet.sui.io/",
